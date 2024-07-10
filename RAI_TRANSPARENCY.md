@@ -6,7 +6,7 @@ GraphRAG is an AI-based content interpretation and search capability. Using LLMs
 
 ## What can GraphRAG do?  
 
-GraphRAG is able to connect information across large volumes of information and use these connections to answer questions that are difficult or impossible to answer using keyword and vector-based search mechanisms. Building on the previous question, provide semi-technical, high-level information on how the system offers functionality for various uses.  This lets a system using GraphRAG to answer questions where the answers span many documents as well as thematic questions such as “what are the top themes in this dataset?.”
+GraphRAG is able to connect information across large volumes of information and use these connections to answer questions that are difficult or impossible to answer using keyword and vector-based search mechanisms. This lets a system using GraphRAG answer questions where the answers span many documents as well as thematic questions such as “what are the top themes in this dataset?.”
 
 ## What are GraphRAG’s intended use(s)? 
 
